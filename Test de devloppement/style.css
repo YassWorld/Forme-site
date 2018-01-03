@@ -1,0 +1,20 @@
+h1 {
+
+	font-size: 28px;
+	text-align: center;
+	color :#502902;
+}
+body {
+	font-size: 16px;
+	font-family: HelvLight;
+	color: #002F2F;
+	background-image: url(image/contemporary_china.png);
+
+
+}
+ul li {
+	display: inline-block;
+}
+li {
+	list-style-type: none;
+}
